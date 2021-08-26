@@ -8,6 +8,12 @@ A GIF of the working application
 
 ## Programming Languages and Dependencies
 
+This app was developed using:
+
+- JavaScript
+- HTML
+- CSS
+
 ## Architecture
 
 ## Resources
