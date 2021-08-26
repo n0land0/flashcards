@@ -11,8 +11,9 @@ A GIF of the working application
 This app was developed using:
 
 - JavaScript
-- HTML
-- CSS
+- Node
+- Mocha
+- Chai
 
 ## Architecture
 
