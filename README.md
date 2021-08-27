@@ -4,7 +4,7 @@ Abstract at the top (A sentence or two describing the project)
 
 ## Usage and Demonstration
 Install/Setup instructions
-A GIF of the working application
+![Gameplay on Node in the terminal](https://media.giphy.com/media/NldIkrUTILn8mQgXeE/giphy.gif?cid=790b7611f41f3992810db25d596d034496224f0f8af77aea&rid=giphy.gif&ct=g)
 
 ## Programming Languages and Dependencies
 
