@@ -17,6 +17,11 @@ This app was developed using:
 - Chai
 
 ## Architecture
+- Card.js, Turn.js, Deck.js, Round.js, Game.js - components of the game built as classes
+- Card-test.js, Turn-test.js, Deck-test.js, Round-test.js, Game-test.js - Mocha/Chai test suites for each component
+- index.js - creates a server and starts the game by invoking the Game class
+- util.js - facilitates question prompt/answer functionality
+- data.js - contains information with which to build flashcards
 
 ## Resources
 [Project board](https://github.com/n0land0/flashcards/projects/1) created using GitHub Projects
