@@ -23,6 +23,14 @@ This app was developed using:
 - util.js - facilitates question prompt/answer functionality
 - data.js - contains information with which to build flashcards
 
+## Contributions
+
+This app was developed by:
+
+[Nolan Caine](https://github.com/n0land0)
+
+Nolan is a student of front-end engineering at the Turing School of Software & Design.
+
 ## Resources
 [Project board](https://github.com/n0land0/flashcards/projects/1) created using GitHub Projects
 
