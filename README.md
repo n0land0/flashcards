@@ -1,9 +1,9 @@
 # Flashcards
 
-Abstract at the top (A sentence or two describing the project)
+Flashcards is a study tool
 
 ## Usage and Demonstration
-Game is played via the Command Line Interface in Terminal. The user answers a round of 30 questions, receiving feedback on each answer as well as a score and time elapsed at the end of the round.
+Game is played via the Command Line Interface in Terminal. With the project directory installed, the user can run the index.js file in node. The user answers a round of 30 questions, receiving feedback on each answer as well as a score and time elapsed at the end of the round.
 
 ![Gameplay on Node in the terminal](https://media.giphy.com/media/NldIkrUTILn8mQgXeE/giphy.gif?cid=790b7611f41f3992810db25d596d034496224f0f8af77aea&rid=giphy.gif&ct=g)
 
