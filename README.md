@@ -25,11 +25,11 @@ This app was developed using:
 
 ## Contributions
 
-This app was developed by:
+_This app was developed by:_
 
 [Nolan Caine](https://github.com/n0land0)
 
-Nolan is a student of front-end engineering at the Turing School of Software & Design.
+_Nolan is a student of front-end engineering at the Turing School of Software & Design._
 
 ## Resources
 [Project board](https://github.com/n0land0/flashcards/projects/1) created using GitHub Projects
